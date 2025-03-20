@@ -1,0 +1,3 @@
+[submodule "lib/SuplaATCThermoHygroMeter"]
+	path = lib/SuplaATCThermoHygroMeter
+	url = https://github.com/TheMechanos/SuplaATCThermoHygroMeter.git
